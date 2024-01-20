@@ -1,6 +1,6 @@
 {
   "name": "marked-newtab",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "GB <gbourel@gmail.com>",
   "description": "A [marked](https://github.com/markedjs/marked) extension that adds _blank attribute to links.",
   "license": "MIT",
